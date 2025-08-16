@@ -38,6 +38,7 @@ This project demonstrates how **optical sensing techniques** can be applied in w
 ---
 
 ## 🔧 Circuit Diagram
-*(Add your circuit diagram image here, e.g. `circuit.png`)*  
+
+<img width="1171" height="450" alt="Blank diagram (9)" src="https://github.com/user-attachments/assets/b3a01c92-2d2c-4fef-8d5b-a434efc39e7c" />  
 
 ```bash
